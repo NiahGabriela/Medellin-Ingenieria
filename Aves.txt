@@ -6,3 +6,4 @@ Aguila
 Cacatua
 Gallo
 Persa
+Exotico
