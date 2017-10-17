@@ -5,3 +5,4 @@ Gallina
 Aguila
 Cacatua
 Gallo
+Persa
